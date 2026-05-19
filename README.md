@@ -4,7 +4,7 @@
      HERO BANNER — VENOM WAVE
 ══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a33,60:003366,90:005580,100:00aaff&height=350&section=header&text=MANOSAKTHI%20T&fontSize=85&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=00ffff&strokeWidth=2&desc=🎓%20AI%20%26%20Data%20Science%20Engineer%20%7C%20Python%20Developer%20%7C%20ML%20Researcher&descAlignY=62&descAlign=50&descFontColor=aaffff&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a33,60:003366,90:005580,100:00aaff&height=350&section=header&text=MANOSAKTHI%20T&fontSize=85&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=00ffff&strokeWidth=2&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Python%20Developer%20%7C%20ML%20Researcher&descAlignY=62&descAlign=50&descFontColor=aaffff&descSize=17" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&height=60&lines=🐍+Python+Developer+%7C+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;📈+FinTech+%7C+Stock+Prediction+%7C+LSTM+Models;🤖+Robotics+AI+%7C+Computer+Vision+%7C+CNN;🔐+Cybersecurity+%7C+Hybrid+Encryption+Systems;🏆+IEEE+Finalist+%7C+IIT+Guwahati+Top+20+%7C+Hackathon+Winner" />
