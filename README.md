@@ -528,11 +528,7 @@ print(f"GPA    : {me.gpa}  |  {me.city}")
 
 ## 📈 &nbsp;GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00eaff&icon_color=7b2fff&text_color=c9d1d9&ring_color=ff2d78" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9" />
-</p>
 
 <br/>
 
