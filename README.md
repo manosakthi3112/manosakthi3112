@@ -11,7 +11,7 @@
 <!-- GLITCH TYPING -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1800&pause=500&color=00EAFF&center=true&vCenter=true&multiline=false&width=900&height=40&lines=%E2%96%B6+B.E.+AI&DS+Graduate+%E2%80%94+PACET+Pollachi+%7C+GPA+8.8%2F10;%E2%96%B6+Building+EmoFormer+7B+%E2%80%94+Emotional+AI+SLM+from+scratch+in+PyTorch;%E2%96%B6+IEEE+YESIST12+Finalist+%7C+IIT+Guwahati+Top+20+%7C+6+Hackathon+Podiums;%E2%96%B6+Python+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV+%7C+Flask+%7C+React;%E2%96%B6+Open+to+Full-Time+ML+%2F+AI+%2F+Research+Roles+%E2%80%94+2025)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=15&duration=1800&pause=500&color=00EAFF&center=true&vCenter=true&multiline=false&width=900&height=40&lines=%E2%96%B6+B.E.+AI-DS+Graduate+%E2%80%94+PACET+Pollachi+%7C+GPA+8.8%2F10;%E2%96%B6+Building+EmoFormer+7B+%E2%80%94+Emotional+AI+SLM+from+scratch+in+PyTorch;%E2%96%B6+IEEE+YESIST12+Finalist+%7C+IIT+Guwahati+Top+20+%7C+6+Hackathon+Podiums;%E2%96%B6+Python+%7C+PyTorch+%7C+TensorFlow+%7C+OpenCV+%7C+Flask+%7C+React;%E2%96%B6+Open+to+Full-Time+ML+%2F+AI+%2F+Research+Roles+%E2%80%94+2025)](https://git.io/typing-svg)
 
 </div>
 
