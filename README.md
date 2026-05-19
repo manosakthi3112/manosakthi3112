@@ -129,4 +129,14 @@ If you want me to update the workflow to generate both light and dark variants a
 ---
 
 Thanks for visiting — if you'd like me to add a short GIF or animated mockup for a specific project, tell me which project and I'll add it.
+ 
+---
+
+### 📄 Resume (One page)
+
+You can view or download my one-page resume here:
+
+- [Mano_one_page.pdf](Mano_one_page.pdf) — concise professional summary, skills, and contact details.
+
+If you'd like, I can extract key sections from the PDF and add them as a structured `Experience` and `Education` section in this README.
 ```
