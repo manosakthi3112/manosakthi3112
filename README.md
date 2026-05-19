@@ -28,76 +28,105 @@ I specialize in creating robust backend architectures and transforming complex d
 *   💬 **Ask me about:** `Python`, `Flask`, `Data Scraping (yfinance)`, and `Database Design`.
 
 <br>
-
-<!-- Skills & Languages Badges Section -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Skills & Tech Stack
-
+```markdown
+<!-- Header: waving capsule -->
 <div align="center">
-
-#### **Languages**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-#### **Frameworks & Libraries**
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-#### **Tools & DevOps**
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Mano%20Sakthi&fontSize=64&animation=twinkle&desc=Senior%20Python%20Developer%20|%20FinTech%20Enthusiast" alt="Mano Sakthi header"/>
 </div>
 
-<br>
+<!-- Typing intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&width=700&height=70&duration=3000&lines=Hi+there!+👋;I'm+Mano+Sakthi+-+Full-Stack+Engineer;Back-end+&+Data+Systems+|+FinTech" alt="typing animation"/>
+</div>
 
-<!-- Interactive "Transition" Section -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Highlighted Work (Click to Expand)
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/manosakthi3112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<!-- Using standard HTML details/summary creates a cool dropdown transition effect on GitHub -->
+---
+
+### 👋 About Me
+
+I build resilient backend systems and data-driven web apps with a focus on performance and clarity. My work centers on Python, scalable APIs, and financial data tooling.
+
+- 🔭 Currently: building low-latency caches for market data
+- 🌱 Learning: distributed systems and production observability
+- 👯 Open to: FinTech projects, API design, and data engineering collaborations
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+---
+
+### 🏆 GitHub & Live Animations
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosakthi3112&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophies"/></a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=radical&hide_border=true" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
+</div>
+
+---
+
+### 🐍 Contribution Activity (Snake)
+
+The snake animation is generated by a GitHub Action that publishes a generated SVG to the `output` branch. If you see a broken image here, follow the steps below to enable it.
+
+<div align="center">
+  <!-- Fallback: if generated file not present, show a placeholder -->
+  <img src="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake.svg" alt="Contribution snake (generated)" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/master/static/preview/github-contribution-grid-snake.svg'" />
+</div>
+
 <details>
-  <summary><b>📈 Stock Details Engine (Python / Flask / YFinance)</b></summary>
-  <br>
-  <blockquote>
-    Built a real-time financial data analytics tool that scrapes, processes, and visualizes market trends.<br>
-    <b>Tech:</b> Python, Flask, Pandas, yfinance, HTML/CSS.<br>
-    <b>Result:</b> Provided a seamless, low-latency interface for retail investors to track historical stock data.<br>
-    <a href="https://github.com/manosakthi3112/STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE">🔗 View Repository</a>
-  </blockquote>
+  <summary><b>How to enable the snake animation</b></summary>
+
+1. Ensure GitHub Actions are enabled for this repository.
+2. The workflow file is `.github/workflows/snake.yml` (already present). Manually run the workflow via the Actions tab or trigger `workflow_dispatch`.
+3. Wait for the job to complete — it will create or update the `output` branch with `github-contribution-grid-snake.svg`.
+4. If the image still doesn't appear, open the `output` branch in the repo and confirm `github-contribution-grid-snake.svg` exists at the repo root.
+
+If you want me to update the workflow to generate both light and dark variants and keep them in `output/`, tell me and I'll patch `.github/workflows/snake.yml`.
+
 </details>
 
-<br>
+---
 
-<!-- Animated GitHub Stats & Trophies -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Analytics
+### ✨ Extra Animations
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=manosakthi3112&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
-</div>
-<br>
+- A dynamic header (capsule-render)
+- Typing intro (readme-typing-svg)
+- GitHub trophies & stats (vercel endpoints)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&theme=radical&hide_border=true" />
-</div>
+---
 
-<br>
+### 📂 Projects (selected)
 
-<!-- The Contribution Snake Animation -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Activity
+<details>
+  <summary><b>📈 Stock Details Engine (Python / Flask / yfinance)</b></summary>
 
-<div align="center">
-  <!-- Make sure to follow the setup instructions below to make this snake work! -->
-  <img src="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+  Built a financial-data engine for visualizing and analyzing historical market data.
+
+  **Tech:** Python, Flask, Pandas, yfinance
+
+  🔗 https://github.com/manosakthi3112/STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE
+
+</details>
+
+---
+
+Thanks for visiting — if you'd like me to add a short GIF or animated mockup for a specific project, tell me which project and I'll add it.
+```
