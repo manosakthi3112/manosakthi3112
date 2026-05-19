@@ -4,7 +4,7 @@
      HERO BANNER — VENOM WAVE
 ══════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a33,60:003366,90:005580,100:00aaff&height=350&section=header&text=MANOSAKTHI%20T&fontSize=85&fontColor=00ffff&animation=fadeIn&fontAlignY=40&stroke=00ffff&strokeWidth=2&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Python%20Developer%20%7C%20ML%20Researcher&descAlignY=62&descAlign=50&descFontColor=aaffff&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:001a33,60:003366,90:005580,100:00aaff&height=300&section=header&text=MANOSAKTHI%20THIYAGARAJAN&fontSize=52&fontColor=00ffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer%20%7C%20Python%20Developer%20%7C%20ML%20Researcher&descAlignY=60&descAlign=50&descFontColor=aaffff&descSize=17" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2500&pause=700&color=00FFFF&background=00000000&center=true&vCenter=true&width=800&height=60&lines=🐍+Python+Developer+%7C+AI+%26+Data+Science+Engineer;🧠+Machine+Learning+%7C+Deep+Learning+%7C+NLP;📈+FinTech+%7C+Stock+Prediction+%7C+LSTM+Models;🤖+Robotics+AI+%7C+Computer+Vision+%7C+CNN;🔐+Cybersecurity+%7C+Hybrid+Encryption+Systems;🏆+IEEE+Finalist+%7C+IIT+Guwahati+Top+20+%7C+Hackathon+Winner" />
@@ -364,21 +364,21 @@ Cloud / DevOps              ████████████░░░░░�
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=7efff5&border_radius=16" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=16" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=donut&langs_count=8&theme=merko&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=7efff5&border_radius=16" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manosakthi3112&theme=dark&hide_border=true&background=0D1117&ring=00FFFF&fire=FF6B35&currStreakLabel=00FFFF&sideLabels=7EFFF5&dates=7EFFF5&sideNums=00FFFF&currStreakNum=00FFFF&border_radius=16)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=16" />
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manosakthi3112&bg_color=0d1117&color=00ffff&line=00aaff&point=ff6b35&area=true&area_color=001a33&hide_border=true&border_radius=16&custom_title=📅%20Manosakthi%27s%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manosakthi3112&theme=tokyonight&hide_border=true&border_radius=16)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manosakthi3112&theme=tokyo-night&hide_border=true&border_radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -490,6 +490,6 @@ Cloud / DevOps              ████████████░░░░░�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,40:005580,70:003366,100:000000&height=160&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20⭐%20Star%20a%20repo%20if%20you%20like%20my%20work!&fontSize=15&fontAlignY=65&fontColor=00ffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,40:005580,70:003366,100:000000&height=160&section=footer&animation=twinkling&text=Thanks%20for%20visiting!%20Star%20a%20repo%20if%20you%20like%20my%20work!&fontSize=15&fontAlignY=65&fontColor=00ffff" />
 
 </div>
