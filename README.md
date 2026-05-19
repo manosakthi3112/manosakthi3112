@@ -552,23 +552,48 @@ print(f"GPA    : {me.gpa}  |  {me.city}")
      PROFILE SUMMARY CARDS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🔥 &nbsp;Profile Summary Cards
+## 🔥 Profile Summary Cards
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:7B2FFF,100:FF00FF&height=2"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00EAFF&center=true&vCenter=true&width=700&lines=⚡+GitHub+Analytics+Dashboard;🚀+AI+%7C+ML+%7C+FULLSTACK;🔥+Real-Time+Developer+Stats" />
+
+<br><br>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manosakthi3112&theme=2077" width="100%"/>
 
-<br/>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manosakthi3112&theme=2077" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manosakthi3112&theme=2077" width="49%" />
 
-<br/>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manosakthi3112&theme=2077" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manosakthi3112&theme=2077&utcOffset=5.5" width="49%" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manosakthi3112&bg_color=0d1117&color=00EAFF&line=7B2FFF&point=FF00FF&area=true&hide_border=true&custom_title=⚡%20Contribution%20Graph" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=manosakthi3112&theme=algolia&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=manosakthi3112&label=PROFILE+VIEWS&color=7B2FFF&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B2FFF,100:FF00FF&height=120&section=footer"/>
+
 </div>
+
 
 ---
 
