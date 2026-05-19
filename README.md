@@ -1,142 +1,237 @@
-<!-- Waving Header Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mano%20Sakthi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Python%20Developer%20|%20Data%20Enthusiast&descAlignY=55&descAlign=50" />
+
+<!-- ═══════════════════════════════════════════════════════════════
+     HERO HEADER — Neon Cyberpunk Wave
+════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:0a1628,50:0d2137,75:0a2e4a,100:061020&height=300&section=header&text=Mano%20Sakthi&fontSize=90&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&stroke=00f5ff&strokeWidth=2&desc=Senior%20Python%20Developer%20%7C%20FinTech%20Architect%20%7C%20Data%20Enthusiast&descAlignY=60&descAlign=50&descFontColor=7efff5&descSize=20" />
+
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+a+Full-Stack+Software+Engineer;Architecting+Data-Driven+Web+Apps;Python+&+Finance-Tech+Enthusiast" />
-</div>
-
-<!-- Social Links (Badges) -->
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/manosakthi3112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
-
-<br>
-
-<!-- Animated About Me -->
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About Me
-
-I specialize in creating robust backend architectures and transforming complex data into seamless web experiences. By leveraging Python and modern web frameworks, I build systems that are both highly performant and scalable.
-
-*   🔭 **Currently building:** Advanced caching systems for real-time stock market data retrieval.
-*   🌱 **Currently learning:** Advanced System Design, Cloud Deployments (AWS/GCP), and Microservices.
-*   👯 **Open to collaborate on:** Open-source Python tools, FinTech applications, and API design.
-*   💬 **Ask me about:** `Python`, `Flask`, `Data Scraping (yfinance)`, and `Database Design`.
-
-<br>
-```markdown
-<!-- Header: waving capsule -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Mano%20Sakthi&fontSize=64&animation=twinkle&desc=Senior%20Python%20Developer%20|%20FinTech%20Enthusiast" alt="Mano Sakthi header"/>
-</div>
-
-<!-- Typing intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&width=700&height=70&duration=3000&lines=Hi+there!+👋;I'm+Mano+Sakthi+-+Full-Stack+Engineer;Back-end+&+Data+Systems+|+FinTech" alt="typing animation"/>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════
+     TYPING ANIMATION
+════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/manosakthi3112"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Mano+Sakthi;Senior+Python+Developer+%F0%9F%90%8D;FinTech+%26+Data+Systems+Engineer+%F0%9F%93%88;Building+Low-Latency+Market+Data+Engines+%E2%9A%A1;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 👋 About Me
-
-I build resilient backend systems and data-driven web apps with a focus on performance and clarity. My work centers on Python, scalable APIs, and financial data tooling.
-
-- 🔭 Currently: building low-latency caches for market data
-- 🌱 Learning: distributed systems and production observability
-- 👯 Open to: FinTech projects, API design, and data engineering collaborations
-
----
-
-### 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════
+     SOCIAL BADGES — Neon Glow Row
+════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manosakthi3112)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════
+     ANIMATED PROFILE VIEWS + FOLLOWERS
+════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=manosakthi3112&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/manosakthi3112?style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github)
+
 </div>
 
 ---
 
-### 🏆 GitHub & Live Animations
+## 🧬 About Me
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manosakthi3112&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="trophies"/></a>
-</div>
+```python
+class ManoSakthi:
+    name        = "Mano Sakthi"
+    role        = "Senior Python Developer"
+    location    = "Tamil Nadu, India 🇮🇳"
+    languages   = ["Python", "SQL", "JavaScript", "Bash"]
+    frameworks  = ["Flask", "FastAPI", "React"]
+    databases   = ["PostgreSQL", "Redis", "SQLite"]
+    cloud       = ["AWS", "GCP", "Docker"]
+    interests   = ["FinTech", "Data Engineering", "System Design", "Open Source"]
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=radical&hide_border=true" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&theme=radical&hide_border=true" alt="top languages"/>
-</div>
+    def current_focus(self):
+        return [
+            "⚡ Building low-latency caches for real-time market data",
+            "☁️  Learning distributed systems & production observability",
+            "📐 Mastering microservices & cloud-native architecture",
+        ]
 
----
-
-### 🐍 Contribution Activity (Snake)
-
-The snake animation is generated by a GitHub Action that publishes a generated SVG to the `output` branch. If you see a broken image here, follow the steps below to enable it.
-
-<div align="center">
-  <!-- Fallback: if generated file not present, show a placeholder -->
-  <img src="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake.svg" alt="Contribution snake (generated)" onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/master/static/preview/github-contribution-grid-snake.svg'" />
-</div>
-
-<details>
-  <summary><b>How to enable the snake animation</b></summary>
-
-1. Ensure GitHub Actions are enabled for this repository.
-2. The workflow file is `.github/workflows/snake.yml` (already present). Manually run the workflow via the Actions tab or trigger `workflow_dispatch`.
-3. Wait for the job to complete — it will create or update the `output` branch with `github-contribution-grid-snake.svg`.
-4. If the image still doesn't appear, open the `output` branch in the repo and confirm `github-contribution-grid-snake.svg` exists at the repo root.
-
-If you want me to update the workflow to generate both light and dark variants and keep them in `output/`, tell me and I'll patch `.github/workflows/snake.yml`.
-
-</details>
-
----
-
-### ✨ Extra Animations
-
-- A dynamic header (capsule-render)
-- Typing intro (readme-typing-svg)
-- GitHub trophies & stats (vercel endpoints)
-
----
-
-### 📂 Projects (selected)
-
-<details>
-  <summary><b>📈 Stock Details Engine (Python / Flask / yfinance)</b></summary>
-
-  Built a financial-data engine for visualizing and analyzing historical market data.
-
-  **Tech:** Python, Flask, Pandas, yfinance
-
-  🔗 https://github.com/manosakthi3112/STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE
-
-</details>
-
----
-
-Thanks for visiting — if you'd like me to add a short GIF or animated mockup for a specific project, tell me which project and I'll add it.
- 
----
-
-### 📄 Resume (One page)
-
-You can view or download my one-page resume here:
-
-- [Mano_one_page.pdf](Mano_one_page.pdf) — concise professional summary, skills, and contact details.
-
-If you'd like, I can extract key sections from the PDF and add them as a structured `Experience` and `Education` section in this README.
+    def fun_fact(self):
+        return "I read stock charts the same way others read novels 📈"
 ```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<!-- ROW 1: Languages -->
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manosakthi3112&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manosakthi3112&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=7efff5&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manosakthi3112&layout=compact&langs_count=8&theme=merko&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7efff5&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=manosakthi3112&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=7EFFF5&dates=7EFFF5&border_radius=12)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Mano's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manosakthi3112&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ff6b35&area=true&area_color=00f5ff&hide_border=true&border_radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/manosakthi3112/manosakthi3112/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Stock Details Engine](https://github-readme-stats.vercel.app/api/pin/?username=manosakthi3112&repo=STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE&theme=merko&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=7efff5&icon_color=ff6b35&border_radius=12)](https://github.com/manosakthi3112/STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE)
+
+</div>
+
+<details>
+<summary><b>📈 Stock Details Engine — Python / Flask / yfinance</b></summary>
+
+<br/>
+
+> A financial-data engine for visualizing and analyzing historical market data with real-time caching.
+
+| Layer | Tech |
+|---|---|
+| Backend | Python 3.11, Flask, Celery |
+| Data | yfinance, Pandas, NumPy |
+| Cache | Redis |
+| Frontend | HTML5, Chart.js |
+
+**Highlights:**
+- ⚡ Sub-100ms response times via Redis caching
+- 📊 Interactive candlestick + volume charts
+- 🔄 Background job scheduling with Celery
+- 🐳 Dockerized for one-command deploy
+
+🔗 [View Repository](https://github.com/manosakthi3112/STOCK-DETAILS-WEBPAGE-USING-FLASK-PYTHON-AND-YFINANCE)
+
+</details>
+
+---
+
+## 🎯 Current Goals — 2025
+
+```
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75%  ⚡ Advanced System Design
+[▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░] 60%  ☁️  Cloud Deployment (AWS/GCP)
+[▓▓▓▓▓▓▓▓▓░░░░░░░░░░░] 45%  🔬 Distributed Systems
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░] 70%  🏗️  Microservices Architecture
+[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░] 85%  📈 FinTech & Market Data Systems
+```
+
+---
+
+## 💬 Let's Connect
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+**I'm open to:**
+🤝 FinTech collaborations &nbsp;|&nbsp; 🔓 Open-source contributions &nbsp;|&nbsp; 🧠 System design discussions &nbsp;|&nbsp; 💼 Freelance Python projects
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Send%20me%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════
+     FOOTER WAVE
+════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061020,25:0a1628,50:0d2137,75:0a2e4a,100:0d0221&height=150&section=footer&animation=twinkling&fontColor=00f5ff" />
+
+</div>
